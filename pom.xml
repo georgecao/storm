@@ -266,7 +266,7 @@
         <hdrhistogram.version>2.1.7</hdrhistogram.version>
         <calcite.version>1.4.0-incubating</calcite.version>
         <janino.version>2.7.8</janino.version>
-        <jackson.version>2.6.3</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
         <maven-surefire.version>2.18.1</maven-surefire.version>
         <!-- Kafka version used by old storm-kafka spout code -->
         <storm.kafka.version>0.8.2.1</storm.kafka.version>
